@@ -1,0 +1,113 @@
+[
+    {
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/da0490d4-d7bc-4772-864e-775c308829c7/300x450",
+        "release_date": "1994-09-23",
+        "title": "Форсаж 9",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 18896
+    },
+    {
+        
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/a531e024-9d0e-40b7-a0f9-b80f2e7913a8/300x450",
+        "release_date": "1972-03-14",
+        "title": "Извержение",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 14251
+    },
+    {
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/618d21ae-afd9-4657-8fe9-c61675a145a7/300x450",
+        "release_date": "1993-11-30",
+        "title": "Спирит Непокорный",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 11355
+    },
+    {
+        
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/f3be8b0b-456c-4499-a4f3-79e1fee1ae3a/300x450",
+        "release_date": "1974-12-20",
+        "title": "Гнев человеческий",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 8501
+    },
+    {
+        
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/107a5e6b-752e-43d2-bb73-4d50415212d3/300x450",
+        "release_date": "2016-08-26",
+        "title": "Те, кто желает мне смерти",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 7429
+    },
+    {
+        
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/475deac3-ef64-4363-a9d2-f7ca3cd4d522/300x450",
+        "release_date": "2001-07-20",
+        "title": "Шаг вперед: Жар улиц",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 11316
+    },
+    {
+      
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/fa22cc5d-c083-4190-b962-ec0899fdece1/300x450",
+        "release_date": "1999-12-10",
+        "title": "Главный герой",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 12233
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14,
+            878
+        ],
+        "id": 791373,
+        "original_language": "en",
+        "original_title": "Zack Snyder's Justice League",
+        "overview": "Вдохновившись самопожертвованием Супермена, Брюс Уэйн вновь обретает веру в человечество. Он заручается поддержкой новой союзницы Дианы Принс, чтобы сразиться с ещё более могущественным противником. Бэтмен и Чудо-женщина набирают команду сверхлюдей для борьбы с пробудившейся угрозой.",
+        "popularity": 1894.472,
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/d35ca624-07b1-49a6-8922-5cac1b96dd70/300x450",
+        "release_date": "2021-03-18",
+        "title": "Лига справедливости Зака Снайдера",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 5373
+    },
+    {
+       
+        "poster_path": "https://i.pinimg.com/originals/02/c9/0e/02c90e9de539100de81947986cab7a60.jpg",
+        "release_date": "1994-09-10",
+        "title": "Веном 2",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 21049
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pm0RiwNpSja8gR0BTWpxo5a9Bbl.jpg",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "id": 122,
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Return of the King",
+        "overview": "Последняя часть трилогии о Кольце Всевластия и о героях, взявших на себя бремя спасения Средиземья. Повелитель сил Тьмы Саурон направляет свои бесчисленные рати под стены Минас-Тирита, крепости Последней Надежды. Он предвкушает близкую победу, но именно это и мешает ему заметить две крохотные фигурки — хоббитов, приближающихся к Роковой Горе, где им предстоит уничтожить Кольцо Всевластия. Улыбнется ли им счастье?",
+        "popularity": 56.356,
+        "poster_path": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/fbe4afb6-e190-48f3-9ac1-4de9a1029481/300x450",
+        "release_date": "2003-12-01",
+        "title": "Властелин колец: Возвращение Короля",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 17581
+    }
+]
